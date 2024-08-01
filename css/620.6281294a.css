@@ -1,0 +1,1 @@
+.exam-page{position:relative}.timer-badge{position:fixed;top:10px;left:50%;transform:translateX(-50%);z-index:10}.question-frame{margin-bottom:20px}.options{display:flex;flex-wrap:wrap;gap:10px}.options ion-card{flex:1 1 calc(50% - 10px);cursor:pointer;text-align:center}.options ion-card.selected{border:2px solid var(--ion-color-primary)}
